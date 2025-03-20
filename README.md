@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drbobby27&label=Profile%20views&color=0e75b6&style=flat" alt="jorgetarifa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=infinity-9427&label=Profile%20views&color=0e75b6&style=flat" alt="arleytarifa" /> </p>
 
 
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
