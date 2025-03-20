@@ -9,11 +9,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
 <h3 align="center">Open Source Enthusiast</h3>
 
-<p align="left">
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-</p>
+
 
 - 🔭 I’m currently working on **Full Stack Development**
 
@@ -59,7 +55,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/RabbitMQ_Logo.svg" alt="rabbitmq" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" alt="rabbitmq" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
