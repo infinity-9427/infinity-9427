@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
-    <img src="[[https://cdn.worldvectorlogo.com/logos/pinecone-2.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Fpinecone-makes-accurate-fast-scalable-generative-ai-accessible-to-organizations-large-and-small-with-launch-of-its-serverless-vector-database-302151425.html&psig=AOvVaw1yqS5l984oZ0XbIYyCAN2S&ust=1749596110319000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjX_Ma35Y0DFQAAAAAdAAAAABAE)](https://brandfetch.com/pinecone.io?view=library&library=default&collection=logos&asset=idtuu29Jcn&utm_source=https%253A%252F%252Fbrandfetch.com%252Fpinecone.io&utm_medium=copyAction&utm_campaign=brandPageReferral)" alt="pinecone" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1749510280/stuff/dasgo7azzlglnihqosov.svg" alt="pinecone" width="40" height="40"/>
   </a>
 </p>
 
