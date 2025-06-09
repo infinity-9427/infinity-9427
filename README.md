@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
-    <img src="https://drive.google.com/file/d/1ZkAZym3tnTiyj0dOlogZkko0_eQ8B_qP/view?usp=drive_link" alt="pinecone" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone" width="40" height="40"/>
   </a>
 </p>
 
