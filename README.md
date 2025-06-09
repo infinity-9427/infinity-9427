@@ -93,7 +93,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1749510280/stuff/dasgo7azzlglnihqosov.svg" alt="pinecone" width="40" height="40"/>
+    <img src="[https://res.cloudinary.com/jorge-tarifa/image/upload/v1749510280/stuff/dasgo7azzlglnihqosov.svg](https://asset.cloudinary.com/jorge-tarifa/92793c22ddbe90b5c82c7933a39ab436)" alt="pinecone" width="40" height="40"/>
   </a>
 </p>
 
