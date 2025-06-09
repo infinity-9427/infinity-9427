@@ -7,11 +7,15 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
-<h3 align="center">Open Source Enthusiast</h3>
+<h3 align="center">Full Stack Developer & AI Engineer</h3>
 
-
-
-- 🔭 I’m currently working on **Full Stack Development and RAG AI Agents**
+- 🔭 I'm currently working on **Full Stack Applications with Next.js and RAG AI Agents**
+- 💻 **Frontend:** Next.js, React, TypeScript with modern UI frameworks
+- ⚡ **Backend:** Node.js TypeScript APIs with GraphQL & REST architectures
+- 🗄️ **Databases:** PostgreSQL, MongoDB with Redis caching layer
+- 🐳 **DevOps:** Docker containerization and AWS cloud deployment
+- 🤖 **AI/ML:** Building intelligent RAG systems with LangChain and vector databases
+- 🚀 **Focus:** Scalable full-stack solutions with cutting-edge AI integration
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -98,14 +102,23 @@
 </p>
 
 <!-- AI/ML Tech Stack -->
-<h3 align="left">🤖 AI/ML & Backend Architecture:</h3>
+<h3 align="left">🚀 Tech Stack & Architecture:</h3>
 <ul align="left">
-  <li><strong>Backend:</strong> Python Flask API with CORS support</li>
-  <li><strong>AI/ML:</strong> Google Gemini AI (LLM - gemini-2.0-flash), LangChain (RAG framework)</li>
+  <li><strong>Frontend:</strong> Next.js 14+, React, TypeScript, TailwindCSS</li>
+  <li><strong>Backend:</strong> Node.js with TypeScript, GraphQL & REST APIs</li>
+  <li><strong>Databases:</strong> PostgreSQL, MongoDB with Redis caching</li>
+  <li><strong>DevOps:</strong> Docker, AWS (EC2, S3, RDS), Linux environments</li>
+  <li><strong>AI/ML:</strong> Google Gemini AI (gemini-2.0-flash), LangChain RAG framework</li>
   <li><strong>Vector Store:</strong> Pinecone for semantic search and embeddings</li>
-  <li><strong>Data Sources:</strong> Supabase (PostgreSQL), JSON files, REST APIs with intelligent caching</li>
+  <li><strong>Architecture:</strong> Microservices, API-first design, intelligent caching strategies</li>
+</ul>
+
+<h3 align="left">🤖 Current AI Projects:</h3>
+<ul align="left">
+  <li><strong>RAG AI Agents:</strong> Building intelligent systems with context-aware responses</li>
   <li><strong>Embeddings:</strong> Google Text Embedding Model (text-embedding-004)</li>
-  <li><strong>Similarity Engine:</strong> Custom product recommendation system with cosine similarity</li>
+  <li><strong>Recommendation Engine:</strong> Custom product recommendation with cosine similarity</li>
+  <li><strong>Data Integration:</strong> Multi-source data processing (Supabase, JSON, REST APIs)</li>
 </ul>
 
 <!-- Contribution Stats -->
