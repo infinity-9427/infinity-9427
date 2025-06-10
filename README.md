@@ -2,8 +2,6 @@
 
 <img align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1684288470/stuff/ila209gfb0p2i7ovj8qm.gif"/>
 
-
-
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
 <h3 align="center">Full Stack Developer & AI Engineer</h3>
 
@@ -94,9 +92,7 @@
   <a href="https://graphql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   </a>
-  <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
-    <img src="https://seeklogo.com/images/P/pinecone-icon-logo-AF8B5B7F96-seeklogo.com.png" alt="pinecone" width="40" height="40"/>
-  </a>
+
 </p>
 
 <!-- AI/ML Tech Stack -->
