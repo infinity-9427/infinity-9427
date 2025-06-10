@@ -5,6 +5,11 @@
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
 <h3 align="center">Full Stack Developer & AI Engineer</h3>
 
+
+
+
+
+
 - 🔭 I'm currently working on **Full Stack Applications with Next.js and RAG AI Agents**
 - 💻 **Frontend:** Next.js, React, TypeScript with modern UI frameworks
 - ⚡ **Backend:** Node.js TypeScript APIs with GraphQL & REST architectures
