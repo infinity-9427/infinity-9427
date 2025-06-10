@@ -2,9 +2,7 @@
 
 <img align="left" alt="coding" width="250" height="180" src="https://res.cloudinary.com/jorge-tarifa/image/upload/v1684288470/stuff/ila209gfb0p2i7ovj8qm.gif"/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=infinity-9427&label=Profile%20views&color=0e75b6&style=flat" alt="arleytarifa" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Jorge Arley Tarifa </h1>
 <h3 align="center">Full Stack Developer & AI Engineer</h3>
